@@ -1,6 +1,6 @@
 ![Here should be my avatar. Where is it?](https://avatars.githubusercontent.com/u/31354771?s=40&v=4 'I')
 
-Артур Шайдуллин (Он же Arhcy, он же ...., он же ........, он же FrenkiArt)
+Artur Shaidullin (aka Arhcy, aka ...., aka ........, aka FrenkiArt)
 
 Telegram [https://t.me/artywork](https://t.me/artywork 'https://t.me/artywork')
 
@@ -8,7 +8,7 @@ VK [https://vk.com/artyrich](https://vk.com/artyrich 'https://vk.com/artyrich')
 
 In discord in your group Archy (@FrenkiArt)
 
-Моя цель - покорить планету. Сильные стороны: -прекрасен, -умён, -опасен, -великолепен, -неповторим. Имею прекрасный опыт и не прекрасный тоже имею. Регулярно учусь и переучиваюсь, не потому что туп, а может потому что все неиcпользуемые нейронные связи со временем разрушаются. Да и инструменты меняются. (А может и туп)
+My goal is to conquer the planet. Strengths: -beautiful, -smart, -dangerous, -magnificent, -unique. I have a wonderful experience and I don't have a wonderful one either. I study and retrain regularly, not because I'm stupid, but maybe because all unused neural connections are destroyed over time. And the tools are changing. (And maybe stupid)
 
 ### Some my instuments
 
