@@ -1,10 +1,12 @@
 Артур Шайдуллин (Он же Arhcy, он же ...., он же ........, он же FrenkiArt)
 
-Telegram https://t.me/artywork
-VK https://vk.com/artyrich
+Telegram [https://t.me/artywork](https://t.me/artywork 'https://t.me/artywork')
+VK [https://vk.com/artyrich](https://vk.com/artyrich 'https://vk.com/artyrich')
 In discord in your group Archy (@FrenkiArt)
 
 Моя цель - покорить планету. Сильные стороны: -прекрасен, -умён, -опасен, -великолепен, -неповторим. Имею прекрасный опыт и не прекрасный тоже имею. Регулярно учусь и переучиваюсь, не потому что туп, а может потому что все неиcпользуемые нейронные связи со временем разрушаются. Да и инструменты меняются. (А может и туп)
+
+#### Some my instuments
 
 - css,
 - html,
@@ -19,7 +21,7 @@ In discord in your group Archy (@FrenkiArt)
 - VSCode.
 - Little exp (node, express, typescript)
 
-Примеры кода
+#### Примеры кода
 
 ```
 <div class="head">
