@@ -1,3 +1,5 @@
+![Here should be my avatar. Where is it?](https://avatars.githubusercontent.com/u/31354771?s=40&v=4 'I')
+
 Артур Шайдуллин (Он же Arhcy, он же ...., он же ........, он же FrenkiArt)
 
 Telegram [https://t.me/artywork](https://t.me/artywork 'https://t.me/artywork')
@@ -8,7 +10,7 @@ In discord in your group Archy (@FrenkiArt)
 
 Моя цель - покорить планету. Сильные стороны: -прекрасен, -умён, -опасен, -великолепен, -неповторим. Имею прекрасный опыт и не прекрасный тоже имею. Регулярно учусь и переучиваюсь, не потому что туп, а может потому что все неиcпользуемые нейронные связи со временем разрушаются. Да и инструменты меняются. (А может и туп)
 
-#### Some my instuments
+### Some my instuments
 
 - css,
 - html,
@@ -23,7 +25,7 @@ In discord in your group Archy (@FrenkiArt)
 - VSCode.
 - Little exp (node, express, typescript)
 
-#### Примеры кода
+### Примеры кода
 
 ```
 <div class="head">
