@@ -6,7 +6,18 @@ In discord in your group Archy (@FrenkiArt)
 
 Моя цель - покорить планету. Сильные стороны: -прекрасен, -умён, -опасен, -великолепен, -неповторим. Имею прекрасный опыт и не прекрасный тоже имею. Регулярно учусь и переучиваюсь, не потому что туп, а может потому что все неиcпользуемые нейронные связи со временем разрушаются. Да и инструменты меняются. (А может и туп)
 
-css, html, scss, sass, js (vanila, native), vue, pug, webpack, BEM, git, VSCode. Little (node, express, typescript)
+- css,
+- html,
+- scss,
+- sass,
+- js (vanila, native),
+- vue,
+- pug,
+- webpack,
+- BEM,
+- git,
+- VSCode.
+- Little exp (node, express, typescript)
 
 Примеры кода
 
