@@ -21,6 +21,7 @@ In discord in your group Archy (@FrenkiArt)
 
 Примеры кода
 
+```
 <div class="head">
   <div class="head__item">
     something
@@ -30,6 +31,7 @@ In discord in your group Archy (@FrenkiArt)
     something
   </div>
 </div>
+```
 
 I can't show you my last projects, becouse a don't have the rights for it.
 
