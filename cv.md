@@ -25,7 +25,7 @@ In discord in your group Archy (@FrenkiArt)
 - VSCode.
 - Little exp (node, express, typescript)
 
-### Примеры кода
+### Code examples
 
 ```
 <div class="head">
