@@ -26,10 +26,10 @@ Infinite Learning
 
 Englesh b2, but your system gived me only A elementery ). Grammar naci.
 I usually go to english club every weekend and I got some expirience as an English teacher when I was in China.
-I can hear different accents sometimes.
+sometimes I can hear different accents.
 I spoke with native English man, and I was surprised by his accent.
 I know how pronounce sounds th (muffled) and th (sonorous).
-Usally, I don't need looking to keyboard.
+Usally, I don't need looking to keyboard, becouse I own the blind method of printing (ru and en).
 And I'm best man in the world ).
 
 Have a good day.
