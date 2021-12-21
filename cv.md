@@ -44,3 +44,6 @@ Usally, I don't need looking to keyboard, becouse I own the blind method of prin
 And I'm best man in the world ).
 
 Have a good day.
+
+P.S.
+I can give you only one advice, if you want to learn language, first what you should do, it begin to speak this language.
