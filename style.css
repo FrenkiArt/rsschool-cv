@@ -1,5 +1,13 @@
+* {
+  outline: none;
+}
+
+html {
+  margin: 0;
+}
+
 .container {
   margin: 0 auto;
-  max-width: 1200px;
+  max-width: 640px;
   width: 100%;
 }
