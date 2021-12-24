@@ -5,22 +5,46 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>CV</title>
-    <link rel="stylesheet" href="style.css" />
+    <link rel="stylesheet" href="css/style.css" />
   </head>
   <body>
     <div class="page">
       <header id="header" class="header">
-        <div class="container"></div>
+        <div class="container">
+          <nav class="nav">
+            <ul class="nav__list">
+              <li class="nav__list-item">
+                <a class="nav__link" href="#contacts">contacts</a>
+              </li>
+
+              <li class="nav__list-item">
+                <a class="nav__link" href="#goals">goals</a>
+              </li>
+
+              <li class="nav__list-item">
+                <a class="nav__link" href="#tools">tools</a>
+              </li>
+
+              <li class="nav__list-item">
+                <a class="nav__link" href="#code">code</a>
+              </li>
+
+              <li class="nav__list-item">
+                <a class="nav__link" href="#about">about</a>
+              </li>
+            </ul>
+          </nav>
+        </div>
       </header>
 
-      <section id="main-section" class="main-section">
+      <main id="main-section" class="main-section">
         <div class="container">
           <h1>You are best!</h1>
 
           <div class="cv">
             <div class="cv__wrap-img">
               <img
-                src="https://avatars.githubusercontent.com/u/31354771?s=40&v=4"
+                src="https://avatars.githubusercontent.com/u/31354771?v=4"
                 class="cv__img"
                 loading="lazy"
                 alt="Avatar"
@@ -32,7 +56,7 @@
               FrenkiArt)
             </p>
 
-            <h3 class="cv__h3">Contacts</h3>
+            <h2 id="contacts" class="cv__h2">Contacts</h2>
 
             <ul>
               <li>
@@ -58,6 +82,8 @@
               <li>In discord in your group Archy (@FrenkiArt)</li>
             </ul>
 
+            <h2 id="goals" class="cv__h2">My goals</h2>
+
             <p>
               My goal is to conquer the planet. Strengths: -beautiful, -smart,
               -dangerous, -magnificent, -unique. I have a wonderful experience
@@ -67,7 +93,7 @@
               changing. (And maybe stupid)
             </p>
 
-            <h3 class="cv__h3">Some my instuments:</h3>
+            <h2 id="tools" class="cv__h2">Some my instuments:</h2>
 
             <ul>
               <li>- css,</li>
@@ -85,15 +111,17 @@
               <li>- Little exp (node, express, typescript)</li>
             </ul>
 
-            <h3 class="cv__h3">Code examples</h3>
+            <h2 id="code" class="cv__h2">Code example</h2>
 
-            <pre>
+            <xmp>
               <div class="head">
                 <div class="head__item">something</div>
-    
+
                 <div class="head__item--blue">something</div>
               </div>
-            </pre>
+            </xmp>
+
+            <h2 id="about" class="cv__h2">About me</h2>
 
             <p>
               I can't show you my last projects, becouse a don't have the rights
@@ -115,10 +143,39 @@
             </p>
           </div>
         </div>
-      </section>
+      </main>
 
       <footer id="footer" class="footer">
-        <div class="container"></div>
+        <div class="container">
+          <ul class="footer__list">
+            <li class="footer__list-item">
+              <a
+                href="https://github.com/frenkiart"
+                target="_blank"
+                rel="noopener noreferrer"
+                >My github</a
+              >
+            </li>
+
+            <li class="footer__list-item">Site made in 2021.</li>
+
+            <li class="footer__list-item">
+              <a
+                href="https://rs.school/js/"
+                target="_blank"
+                rel="noopener noreferrer"
+                class="link-to-rss"
+              >
+                <img
+                  src="https://rs.school/images/rs_school_js.svg"
+                  loading="lazy"
+                  alt="logo rss"
+                  class="link-to-rss__img"
+                />
+              </a>
+            </li>
+          </ul>
+        </div>
       </footer>
     </div>
   </body>
