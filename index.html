@@ -4,14 +4,187 @@
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Document</title>
-    <link rel="stylesheet" href="style.css" />
+    <title>CV</title>
+    <link rel="stylesheet" href="css/style.css" />
   </head>
   <body>
     <div class="page">
-      <div class="container">
-        <h1>You are best!</h1>
-      </div>
+      <header id="header" class="header">
+        <div class="container">
+          <nav class="nav">
+            <ul class="nav__list">
+              <li class="nav__list-item">
+                <a class="nav__link" href="#contacts">contacts</a>
+              </li>
+
+              <li class="nav__list-item">
+                <a class="nav__link" href="#goals">goals</a>
+              </li>
+
+              <li class="nav__list-item">
+                <a class="nav__link" href="#tools-and-skills"
+                  >tools-and-skills</a
+                >
+              </li>
+
+              <li class="nav__list-item">
+                <a class="nav__link" href="#code">code</a>
+              </li>
+
+              <li class="nav__list-item">
+                <a class="nav__link" href="#about">about</a>
+              </li>
+            </ul>
+          </nav>
+        </div>
+      </header>
+
+      <main id="main-section" class="main-section">
+        <div class="container">
+          <h1>You are best!</h1>
+
+          <div class="cv">
+            <div class="cv__wrap-img">
+              <img
+                src="https://avatars.githubusercontent.com/u/31354771?v=4"
+                class="cv__img"
+                loading="lazy"
+                alt="Avatar"
+              />
+            </div>
+
+            <p>
+              Artur Shaidullin (aka Arhcy, aka ...., aka ........, aka
+              FrenkiArt)
+            </p>
+
+            <h2 id="contacts" class="cv__h2">Contacts</h2>
+
+            <ul>
+              <li>
+                <span>Telegram:</span>
+                <a
+                  href="https://t.me/artywork"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  >https://t.me/artywork</a
+                >
+              </li>
+
+              <li>
+                <span>VK:</span>
+                <a
+                  href="https://vk.com/artyrich"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  >https://vk.com/artyrich</a
+                >
+              </li>
+
+              <li>In discord in your group Archy (@FrenkiArt)</li>
+            </ul>
+
+            <h2 id="goals" class="cv__h2">My goals</h2>
+
+            <p>
+              My goal is to conquer the planet. Strengths: -beautiful, -smart,
+              -dangerous, -magnificent, -unique. I have a wonderful experience
+              and I don't have a wonderful one either. I study and retrain
+              regularly, not because I'm stupid, but maybe because all unused
+              neural connections are destroyed over time. And the tools are
+              changing. (And maybe stupid)
+            </p>
+
+            <h2 id="tools-and-skills" class="cv__h2">
+              Some my skills and instuments:
+            </h2>
+
+            <ul>
+              <li>- css,</li>
+              <li>- html,</li>
+              <li>- scss,</li>
+              <li>- sass,</li>
+              <li>- js (vanila, native),</li>
+              <li>- vue,</li>
+              <li>- pug</li>
+              <li>- webpack,</li>
+              <li>- vite,</li>
+              <li>- BEM,</li>
+              <li>- git,</li>
+              <li>- VSCode,</li>
+              <li>- Little exp (node, express, typescript)</li>
+            </ul>
+
+            <h2 id="code" class="cv__h2">Code example</h2>
+
+            <pre>
+              &lt;div class="head"&gt;
+                &lt;div class="head__item"&gt;something&lt;/div&gt;
+
+                &lt;div class="head__item--blue"&gt;something&lt;/div&gt;
+              &lt;/div&gt;
+            </pre>
+
+            <h2 id="about" class="cv__h2">About me</h2>
+
+            <p>
+              I can't show you my last projects, becouse a don't have the rights
+              for it. Infinite Learning Englesh b2, but your system gived me
+              only A elementery ). Grammar naci. I usually go to english club
+              every weekend and I got some expirience as an English teacher when
+              I was in China. sometimes I can hear different accents. I spoke
+              with native English man, and I was surprised by his accent. I know
+              how pronounce sounds th (muffled) and th (sonorous). Usally, I
+              don't need looking to keyboard, becouse I own the blind method of
+              printing (ru and en). And I'm best man in the world ). Have a good
+              day.
+            </p>
+
+            <p>
+              P.S. I can give you only one advice, if you want to learn
+              language, first what you should do, it begin to speak this
+              language.
+            </p>
+
+            <h2>Information about education and English level</h2>
+
+            <p>Higher education and english level B+</p>
+          </div>
+        </div>
+      </main>
+
+      <footer id="footer" class="footer">
+        <div class="container">
+          <ul class="footer__list">
+            <li class="footer__list-item">
+              <a
+                href="https://github.com/frenkiart"
+                target="_blank"
+                rel="noopener noreferrer"
+                >My github</a
+              >
+            </li>
+
+            <li class="footer__list-item">Site made in 2021.</li>
+
+            <li class="footer__list-item">
+              <a
+                href="https://rs.school/js/"
+                target="_blank"
+                rel="noopener noreferrer"
+                class="link-to-rss"
+              >
+                <img
+                  src="https://rs.school/images/rs_school_js.svg"
+                  loading="lazy"
+                  alt="logo rss"
+                  class="link-to-rss__img"
+                />
+              </a>
+            </li>
+          </ul>
+        </div>
+      </footer>
     </div>
   </body>
 </html>
