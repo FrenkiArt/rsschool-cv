@@ -102,6 +102,10 @@ body {
   padding: var(--uni-size);
 }
 
+.nav__link {
+  position: relative;
+}
+
 .link-to-rss {
   text-decoration: none;
 }
